@@ -15,16 +15,7 @@ Estudante de Engenharia de Software, buscando oportunidade de **estágio ou vaga
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CrisleyWolgien&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CrisleyWolgien&layout=compact&langs_count=6&theme=tokyonight"/>
-</p>
-
----
 
 ## 📌 Projetos em Destaque
 
